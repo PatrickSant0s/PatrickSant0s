@@ -7,4 +7,4 @@
 
 
 - 📫 How to reach me *Patricksantosribeiro2017@gmail.com*
-a href="https://www.linkedin.com/in/patrick-santos-162899207/" target="_blank"><img align="center"
+<a href="https://www.linkedin.com/in/patrick-santos-162899207/" target="_blank"><img align="center"
