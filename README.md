@@ -16,8 +16,3 @@
 <a href="https://www.linkedin.com/in/patrick-santos-162899207/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathanferreirar" height="30" width="40" /></a>
 
 
-Full Stack Developer
-
-Skills
-
-Node.js JavaScript TypeScript Vue.js GraphQL Neo4j  HTML CSS
